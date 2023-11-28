@@ -7,7 +7,7 @@
 
 ### What are my pronouns?
 
-They are He/His/Him.
+He/His/Him
 
 ### What am I currently working on?
 
