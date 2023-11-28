@@ -1,16 +1,81 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**JamesRailton23/JamesRailton23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Intro](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=500&pause=100&color=58C500FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hello!;My+Name+Is+James+Railton;And;And+Welcome+To+My+GitHub!!!)
 
-Here are some ideas to get you started:
+---
+# Hello!! My name is James Railton, I am IT student from London (UK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What are my pronouns?
+
+They are He/His/Him.
+
+### What am I currently working on?
+
+👨‍💻 Project Sakura, A Web-based inventory management system developed in python flask and is used to catalogue different food products within my kitchen within a database.
+
+### What am I learning?
+
+📖 For a programming language i’m currently learning Python and its Modules, I am also learning about DevOps and Cloud Computing.
+
+### What is my future goal?
+
+🏁 My goal is to have a successful career as an IT Professional.
+
+### What do I enjoy doing?
+
+👥 I enjoy working in groups with fellow IT professionals and putting the skills that I have learnt to good use.
+
+---
+
+![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesrailton23&theme=tokyonight&layout=compact)
+
+### Front End Development
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Back End Development
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### IDE' & Code Editors
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+### OS's
+
+![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+### Connect With Me
+
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-railton/)
+
+### View my Personal Website
+
+![View my CV](https://img.shields.io/badge/View_my_CV-grey?style=for-the-badge&logo=About.me&logoColor=white)
+
+### Github Statistics
+
+![Profile views](https://komarev.com/ghpvc/?username=jamesrailton23&&style=flat-square)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jamesrailton23&show_icons=true&count_private=true&hide_border=true)
+
+<p float="left">
+  <img src="https://www.cddft.nhs.uk/imageGen.ashx?image=%2fmedia%2f612241%2fthankutostaff+(2).jpg" width="300" height="150" />
+  <a href="https://ibb.co/416GyC8"><img src="https://i.ibb.co/416GyC8/lgbt-heart-flag-poster.jpg" width="300" height="150" /></a>
+</p>
+
+</div>
