@@ -11,7 +11,7 @@ He/His/Him
 
 ### What am I currently working on?
 
-👨‍💻 Project Sakura, A Web-based inventory management system developed in python flask and is used to catalogue different food products within my kitchen within a database. (Private repository)
+👨‍💻 Project Sakura, A Web-based inventory management system developed in python flask and is used to catalogue different food products within my kitchen within a database. (Private Repository)
 
 ### What am I learning?
 
