@@ -68,7 +68,7 @@ He/His/Him
 
 <p float="left">
   <img src="https://www.cddft.nhs.uk/imageGen.ashx?image=%2fmedia%2f612241%2fthankutostaff+(2).jpg" width="300" height="150" />
-  <a href="https://ibb.co/416GyC8"><img src="https://i.ibb.co/416GyC8/lgbt-heart-flag-poster.jpg" width="300" height="150" /></a>
+  <a href="https://ibb.co/416GyC8"><img src="https://i.ibb.co/jvQRdP9/rainbow-badge-banner.png" width="300" height="150" /></a>
 </p>
 
 </div>
