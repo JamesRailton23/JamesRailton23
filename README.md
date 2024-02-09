@@ -65,10 +65,8 @@ He/His/Him
 ![Profile views](https://komarev.com/ghpvc/?username=jamesrailton23&&style=flat-square)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jamesrailton23&show_icons=true&count_private=true&hide_border=true)
-
-<p float="left">
-  <img src="https://www.cddft.nhs.uk/imageGen.ashx?image=%2fmedia%2f612241%2fthankutostaff+(2).jpg" width="300" height="150" />
-  <a href="https://ibb.co/416GyC8"><img src="https://i.ibb.co/jvQRdP9/rainbow-badge-banner.png" width="300" height="150" /></a>
+<p>
+  <a href="https://ibb.co/Rpsy1kG"><img src="https://i.ibb.co/jvQRdP9/rainbow-badge-banner.png" width="300" height="150" /></a>
 </p>
-
 </div>
+
