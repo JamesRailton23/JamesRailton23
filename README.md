@@ -7,7 +7,7 @@
 He/His/Him
 
 ### What am I currently working on?
-👨‍💻 Project Sakura (Private Repository), An internal use web application and inventory management system that catalogues food products by taking scanned barcodes and using OpenFoodFacts API to obtain product data which is then stored within a database. This database is connected to flask tables in the web application, enabling users to view their stored products. An AI model is also connected to the system to provide services such as product information and recipes that can be made using the stored product name.
+👨‍💻 Nothing at the moment, but planning on soon
 
 ### What am I learning?
 📖 Python and its Modules, DevOps and Cloud Computing.
