@@ -59,7 +59,7 @@ He/His/Him
 [![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-railton/)
 
 ### View my Personal Website
-![View my CV](https://img.shields.io/badge/View_my_CV-grey?style=for-the-badge&logo=About.me&logoColor=white)
+![View my CV](https://img.shields.io/badge/View_my_CV-grey?style=for-the-badge&logo=About.me&logoColor=white)(https://olive-mufi-36.tiiny.site)
 
 ### Github Statistics
 ![Profile views](https://komarev.com/ghpvc/?username=jamesrailton23&&style=flat-square)
