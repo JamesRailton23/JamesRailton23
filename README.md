@@ -7,13 +7,13 @@
 👨‍💻 Nothing at the moment, but planning on soon
 
 ### What am I learning?
-📖 Python and its Modules, full stack development and Cloud Computing.
+📖 Python and its Modules, Full Stack Web Development and Cloud Computing.
 
 ### What is my future goal?
 🏁 My goal is to have a successful career as a software engineer.
 
 ### What do I enjoy doing?
-👥 I enjoy putting the skills that i have learnt to good use via the undertaking of diffrent personal projects.
+👥 I enjoy putting the skills that I have learnt to good use via the undertaking of diffrent personal projects.
 
 ---
 
