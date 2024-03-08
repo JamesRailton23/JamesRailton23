@@ -7,7 +7,7 @@
 👨‍💻 Nothing at the moment, but planning on soon
 
 ### What am I learning?
-📖 Python and its Modules, Full Stack Web Development and Cloud Computing.
+📖 Java, Full Stack Web Development and Cloud Computing.
 
 ### What is my future goal?
 🏁 My goal is to have a successful career as a software engineer.
